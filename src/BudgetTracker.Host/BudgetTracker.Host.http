@@ -1,0 +1,6 @@
+@BudgetTracker.Host_HostAddress = http://localhost:5064
+
+GET {{BudgetTracker.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

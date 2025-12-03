@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Host", "BudgetTracker.Host\BudgetTracker.Host.csproj", "{F1380C4B-6173-4764-B650-356BAB92E939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Modules.Auth", "BudgetTracker.Modules.Auth\BudgetTracker.Modules.Auth.csproj", "{87E12595-E858-4AFD-B9A6-4BB4BBAA354E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Modules.Expenses", "BudgetTracker.Modules.Expenses\BudgetTracker.Modules.Expenses.csproj", "{9CBA83BF-36E1-49BC-88CF-9523085B27A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Modules.Budget", "BudgetTracker.Modules.Budget\BudgetTracker.Modules.Budget.csproj", "{EBC21FA8-E504-4DF5-ACB7-E00A5482B258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Shared", "BudgetTracker.Shared\BudgetTracker.Shared.csproj", "{36B6D16D-9803-4B16-B57B-A6081809960D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Modules.Auth.Tests", "..\tests\BudgetTracker.Modules.Auth.Tests\BudgetTracker.Modules.Auth.Tests.csproj", "{045FBCC0-C13E-4608-8FFE-8A2D56DB90DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1380C4B-6173-4764-B650-356BAB92E939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1380C4B-6173-4764-B650-356BAB92E939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1380C4B-6173-4764-B650-356BAB92E939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1380C4B-6173-4764-B650-356BAB92E939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E12595-E858-4AFD-B9A6-4BB4BBAA354E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E12595-E858-4AFD-B9A6-4BB4BBAA354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E12595-E858-4AFD-B9A6-4BB4BBAA354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E12595-E858-4AFD-B9A6-4BB4BBAA354E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBA83BF-36E1-49BC-88CF-9523085B27A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBA83BF-36E1-49BC-88CF-9523085B27A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBA83BF-36E1-49BC-88CF-9523085B27A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBA83BF-36E1-49BC-88CF-9523085B27A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC21FA8-E504-4DF5-ACB7-E00A5482B258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC21FA8-E504-4DF5-ACB7-E00A5482B258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC21FA8-E504-4DF5-ACB7-E00A5482B258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC21FA8-E504-4DF5-ACB7-E00A5482B258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B6D16D-9803-4B16-B57B-A6081809960D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B6D16D-9803-4B16-B57B-A6081809960D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B6D16D-9803-4B16-B57B-A6081809960D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B6D16D-9803-4B16-B57B-A6081809960D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045FBCC0-C13E-4608-8FFE-8A2D56DB90DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045FBCC0-C13E-4608-8FFE-8A2D56DB90DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045FBCC0-C13E-4608-8FFE-8A2D56DB90DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045FBCC0-C13E-4608-8FFE-8A2D56DB90DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

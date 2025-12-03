@@ -1,0 +1,15 @@
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\bin\Debug\net8.0\BudgetTracker.Modules.Budget.deps.json
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\bin\Debug\net8.0\BudgetTracker.Modules.Budget.dll
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\bin\Debug\net8.0\BudgetTracker.Modules.Budget.pdb
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\bin\Debug\net8.0\BudgetTracker.Shared.dll
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\bin\Debug\net8.0\BudgetTracker.Shared.pdb
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTracker.Modules.Budget.csproj.AssemblyReference.cache
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTracker.Modules.Budget.GeneratedMSBuildEditorConfig.editorconfig
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTracker.Modules.Budget.AssemblyInfoInputs.cache
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTracker.Modules.Budget.AssemblyInfo.cs
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTracker.Modules.Budget.csproj.CoreCompileInputs.cache
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTr.81E5AD5F.Up2Date
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTracker.Modules.Budget.dll
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\refint\BudgetTracker.Modules.Budget.dll
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\BudgetTracker.Modules.Budget.pdb
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Budget\obj\Debug\net8.0\ref\BudgetTracker.Modules.Budget.dll

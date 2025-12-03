@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4t9TqgRtSYMvYBPaZub16mI+nhNEEYl/1b3pbO5XgHE=",
+  "Source": "BudgetTracker.Host",
+  "BasePath": "_content/BudgetTracker.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

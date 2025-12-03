@@ -1,0 +1,15 @@
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\bin\Release\net8.0\BudgetTracker.Modules.Expenses.deps.json
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\bin\Release\net8.0\BudgetTracker.Modules.Expenses.dll
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\bin\Release\net8.0\BudgetTracker.Modules.Expenses.pdb
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\bin\Release\net8.0\BudgetTracker.Shared.dll
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\bin\Release\net8.0\BudgetTracker.Shared.pdb
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTracker.Modules.Expenses.csproj.AssemblyReference.cache
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTracker.Modules.Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTracker.Modules.Expenses.AssemblyInfoInputs.cache
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTracker.Modules.Expenses.AssemblyInfo.cs
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTracker.Modules.Expenses.csproj.CoreCompileInputs.cache
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTr.291E2D34.Up2Date
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTracker.Modules.Expenses.dll
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\refint\BudgetTracker.Modules.Expenses.dll
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\BudgetTracker.Modules.Expenses.pdb
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Modules.Expenses\obj\Release\net8.0\ref\BudgetTracker.Modules.Expenses.dll

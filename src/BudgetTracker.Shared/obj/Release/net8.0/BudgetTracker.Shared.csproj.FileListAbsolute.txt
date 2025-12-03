@@ -1,0 +1,12 @@
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\bin\Release\net8.0\BudgetTracker.Shared.deps.json
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\bin\Release\net8.0\BudgetTracker.Shared.dll
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\bin\Release\net8.0\BudgetTracker.Shared.pdb
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\BudgetTracker.Shared.csproj.AssemblyReference.cache
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\BudgetTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\BudgetTracker.Shared.AssemblyInfoInputs.cache
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\BudgetTracker.Shared.AssemblyInfo.cs
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\BudgetTracker.Shared.csproj.CoreCompileInputs.cache
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\BudgetTracker.Shared.dll
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\refint\BudgetTracker.Shared.dll
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\BudgetTracker.Shared.pdb
+C:\chatgptprojects\budgettrackermodulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Release\net8.0\ref\BudgetTracker.Shared.dll
