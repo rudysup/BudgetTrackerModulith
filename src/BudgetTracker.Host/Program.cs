@@ -38,10 +38,12 @@ builder.Services.AddAuthentication("Bearer")
     });
 builder.Services.AddAuthorization();
 
-// Register modules
-builder.Services.AddAuthModule(config);
-builder.Services.AddExpensesModule(config);
-builder.Services.AddBudgetModule(config);
+// REGISTER MODULES — ONLY ONCE, HERE
+//builder.Services.AddAuthModule(config);
+
+builder.Services.AddExpensesModule(builder.Configuration);
+builder.Services.AddBudgetModule(builder.Configuration);
+builder.Services.AddAuthModule(builder.Configuration);   // ← AUTH MUST BE LAST
 
 var app = builder.Build();
 
@@ -50,20 +52,22 @@ app.UseCors("AllowAngular");
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Apply migrations
+// APPLY MIGRATIONS — THIS WORKS BECAUSE MODULES ARE ALREADY REGISTERED ABOVE
 using (var scope = app.Services.CreateScope())
 {
     var sp = scope.ServiceProvider;
-    try { sp.GetRequiredService<BudgetTracker.Modules.Auth.Infrastructure.Persistence.AuthMigrationsDbContext>().Database.Migrate(); } catch { }
-    try { sp.GetRequiredService<BudgetTracker.Modules.Expenses.Infrastructure.Persistence.ExpensesMigrationsDbContext>().Database.Migrate(); } catch { }
-    try { sp.GetRequiredService<BudgetTracker.Modules.Budget.Infrastructure.Persistence.BudgetMigrationsDbContext>().Database.Migrate(); } catch { }
+
+    try { sp.GetRequiredService<BudgetTracker.Modules.Auth.Infrastructure.Persistence.AuthMigrationsDbContext>().Database.Migrate(); } catch (Exception ex) { Console.WriteLine($"Auth error: {ex.Message}"); }
+    try { sp.GetRequiredService<BudgetTracker.Modules.Expenses.Infrastructure.Persistence.ExpensesMigrationsDbContext>().Database.Migrate(); } catch (Exception ex) { Console.WriteLine($"Expenses error: {ex.Message}"); }
+    try { sp.GetRequiredService<BudgetTracker.Modules.Budget.Infrastructure.Persistence.BudgetMigrationsDbContext>().Database.Migrate(); } catch (Exception ex) { Console.WriteLine($"Budget error: {ex.Message}"); }
 }
 
 // ROOT
 app.MapGet("/", () => "BudgetTracker API is running!");
 
-// MAP ENDPOINTS — THESE MUST BE HERE
+// MAP ENDPOINTS
 app.MapAuthEndpoints(jwtKey);
+Console.WriteLine("AUTH ENDPOINTS MAPPED — /api/auth/register is ready");
 app.MapExpensesEndpoints();
 app.MapBudgetEndpoints();
 app.MapControllers();

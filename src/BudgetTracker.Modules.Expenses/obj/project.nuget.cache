@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fVT38n5LE5w=",
+  "dgSpecHash": "HdWRGCWt9Hk=",
   "success": true,
-  "projectFilePath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj",
+  "projectFilePath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rudys\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\rudys\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

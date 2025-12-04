@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj": {}
+    "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj": {}
   },
   "projects": {
-    "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj": {
+    "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj",
+        "projectUniqueName": "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj",
         "projectName": "BudgetTracker.Modules.Expenses",
-        "projectPath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj",
+        "projectPath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Expenses\\BudgetTracker.Modules.Expenses.csproj",
         "packagesPath": "C:\\Users\\rudys\\.nuget\\packages\\",
-        "outputPath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Expenses\\obj\\",
+        "outputPath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Expenses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

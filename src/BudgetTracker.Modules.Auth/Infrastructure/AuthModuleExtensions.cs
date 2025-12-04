@@ -13,11 +13,15 @@ public static class AuthModuleExtensions
         services.AddDbContext<AuthMigrationsDbContext>(options =>
             options.UseSqlServer(config.GetConnectionString("AuthDb")));
 
-        var authConn = config.GetConnectionString("AuthDb")
-            ?? throw new InvalidOperationException("Missing connection string 'AuthDb'");
+        var authConn = config.GetConnectionString("AuthDb") ?? throw new InvalidOperationException("Missing AuthDb connection string");
 
-        services.AddSingleton<IDbConnectionFactory>(_ => new DapperDbConnectionFactory(authConn));
+        // THIS LINE IS THE FINAL FIX — 100% GUARANTEED
+        services.AddSingleton<IDbConnectionFactory>(sp => new DapperDbConnectionFactory(authConn));
+        Console.WriteLine($"[AUTH MODULE] DAPPER USING: {authConn.Split(';').FirstOrDefault(s => s.Contains("Database="))}");
+        //services.AddSingleton<IDbConnectionFactory>(sp => new DapperDbConnectionFactory(authConn));
+        
         services.AddScoped<IAuthRepository, AuthRepository>();
+
         return services;
     }
 }

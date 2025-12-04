@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{431B65AA-F75F-4ABE-9EFD-C1A46009F4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Host", "src\BudgetTracker.Host\BudgetTracker.Host.csproj", "{BAEC5326-14CB-4716-A027-B59EA6249A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Shared", "src\BudgetTracker.Shared\BudgetTracker.Shared.csproj", "{E86D4072-7884-4D73-BAAF-9744C19C2251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Modules.Auth", "src\BudgetTracker.Modules.Auth\BudgetTracker.Modules.Auth.csproj", "{C69AF548-8EB0-482D-B70F-0DB21029B6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Modules.Expenses", "src\BudgetTracker.Modules.Expenses\BudgetTracker.Modules.Expenses.csproj", "{D803C135-9A2F-4E52-A84A-CD0B2EB04A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Modules.Budget", "src\BudgetTracker.Modules.Budget\BudgetTracker.Modules.Budget.csproj", "{20F85BA8-AE5F-4065-A852-E5088CC8AD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEC5326-14CB-4716-A027-B59EA6249A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEC5326-14CB-4716-A027-B59EA6249A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEC5326-14CB-4716-A027-B59EA6249A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEC5326-14CB-4716-A027-B59EA6249A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86D4072-7884-4D73-BAAF-9744C19C2251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86D4072-7884-4D73-BAAF-9744C19C2251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86D4072-7884-4D73-BAAF-9744C19C2251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86D4072-7884-4D73-BAAF-9744C19C2251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69AF548-8EB0-482D-B70F-0DB21029B6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69AF548-8EB0-482D-B70F-0DB21029B6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69AF548-8EB0-482D-B70F-0DB21029B6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69AF548-8EB0-482D-B70F-0DB21029B6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D803C135-9A2F-4E52-A84A-CD0B2EB04A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D803C135-9A2F-4E52-A84A-CD0B2EB04A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D803C135-9A2F-4E52-A84A-CD0B2EB04A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D803C135-9A2F-4E52-A84A-CD0B2EB04A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F85BA8-AE5F-4065-A852-E5088CC8AD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F85BA8-AE5F-4065-A852-E5088CC8AD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F85BA8-AE5F-4065-A852-E5088CC8AD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F85BA8-AE5F-4065-A852-E5088CC8AD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAEC5326-14CB-4716-A027-B59EA6249A87} = {431B65AA-F75F-4ABE-9EFD-C1A46009F4FB}
+		{E86D4072-7884-4D73-BAAF-9744C19C2251} = {431B65AA-F75F-4ABE-9EFD-C1A46009F4FB}
+		{C69AF548-8EB0-482D-B70F-0DB21029B6A6} = {431B65AA-F75F-4ABE-9EFD-C1A46009F4FB}
+		{D803C135-9A2F-4E52-A84A-CD0B2EB04A2E} = {431B65AA-F75F-4ABE-9EFD-C1A46009F4FB}
+		{20F85BA8-AE5F-4065-A852-E5088CC8AD27} = {431B65AA-F75F-4ABE-9EFD-C1A46009F4FB}
+	EndGlobalSection
+EndGlobal

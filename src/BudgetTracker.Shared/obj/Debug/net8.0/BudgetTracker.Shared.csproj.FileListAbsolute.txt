@@ -6,6 +6,7 @@ C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Debug\net8.0\BudgetTracker.Shared.AssemblyInfoInputs.cache
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Debug\net8.0\BudgetTracker.Shared.AssemblyInfo.cs
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Debug\net8.0\BudgetTracker.Shared.csproj.CoreCompileInputs.cache
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Debug\net8.0\BudgetTracker.Shared.sourcelink.json
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Debug\net8.0\BudgetTracker.Shared.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Debug\net8.0\refint\BudgetTracker.Shared.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Shared\obj\Debug\net8.0\BudgetTracker.Shared.pdb

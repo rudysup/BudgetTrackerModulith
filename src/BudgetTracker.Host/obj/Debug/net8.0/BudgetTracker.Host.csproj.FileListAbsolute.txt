@@ -5,7 +5,6 @@ C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Host.runtimeconfig.json
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Host.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Host.pdb
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Host.xml
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\Azure.Core.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\Azure.Identity.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\Dapper.dll
@@ -134,10 +133,10 @@ C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Modules.Budget.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Modules.Expenses.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Shared.dll
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Shared.pdb
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Modules.Auth.pdb
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Modules.Expenses.pdb
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Modules.Budget.pdb
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\bin\Debug\net8.0\BudgetTracker.Shared.pdb
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.csproj.AssemblyReference.cache
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.GeneratedMSBuildEditorConfig.editorconfig
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.AssemblyInfoInputs.cache
@@ -145,6 +144,7 @@ C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.csproj.CoreCompileInputs.cache
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.MvcApplicationPartsAssemblyInfo.cs
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.sourcelink.json
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\staticwebassets.build.json
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\staticwebassets.development.json
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\staticwebassets\msbuild.BudgetTracker.Host.Microsoft.AspNetCore.StaticWebAssets.props
@@ -156,7 +156,6 @@ C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTr.3C42432E.Up2Date
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\refint\BudgetTracker.Host.dll
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.xml
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.pdb
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\BudgetTracker.Host.genruntimeconfig.cache
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\budgettracker.host\obj\Debug\net8.0\ref\BudgetTracker.Host.dll

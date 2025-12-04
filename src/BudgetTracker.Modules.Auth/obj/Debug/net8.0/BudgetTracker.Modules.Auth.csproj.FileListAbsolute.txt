@@ -1,5 +1,5 @@
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\bin\Debug\net8.0\BudgetTracker.Modules.Auth.deps.json
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\bin\Debug\net8.0\BudgetTracker.Modules.Auth.runtimeconfig.json
+C:\ChatGptProjects\BudgetTrackerModulith\BudgetTrackerModulith\src\BudgetTracker.Modules.Auth\bin\Debug\net8.0\BudgetTracker.Modules.Auth.deps.json
+C:\ChatGptProjects\BudgetTrackerModulith\BudgetTrackerModulith\src\BudgetTracker.Modules.Auth\bin\Debug\net8.0\BudgetTracker.Modules.Auth.runtimeconfig.json
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\bin\Debug\net8.0\BudgetTracker.Modules.Auth.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\bin\Debug\net8.0\BudgetTracker.Modules.Auth.pdb
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\bin\Debug\net8.0\BudgetTracker.Shared.dll
@@ -9,9 +9,10 @@ C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.AssemblyInfoInputs.cache
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.AssemblyInfo.cs
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.csproj.CoreCompileInputs.cache
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTr.F4C2BF0F.Up2Date
+C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.sourcelink.json
+C:\ChatGptProjects\BudgetTrackerModulith\BudgetTrackerModulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTr.F4C2BF0F.Up2Date
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\refint\BudgetTracker.Modules.Auth.dll
 C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.pdb
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.genruntimeconfig.cache
-C:\ChatGptProjects\BudgetTrackerModulith\budgettrackermodulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\ref\BudgetTracker.Modules.Auth.dll
+C:\ChatGptProjects\BudgetTrackerModulith\BudgetTrackerModulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\BudgetTracker.Modules.Auth.genruntimeconfig.cache
+C:\ChatGptProjects\BudgetTrackerModulith\BudgetTrackerModulith\src\BudgetTracker.Modules.Auth\obj\Debug\net8.0\ref\BudgetTracker.Modules.Auth.dll

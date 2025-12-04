@@ -7585,8 +7585,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Auth\\BudgetTracker.Modules.Auth.csproj": {
-              "projectPath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\budgettrackermodulith\\src\\BudgetTracker.Modules.Auth\\BudgetTracker.Modules.Auth.csproj"
+            "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Auth\\BudgetTracker.Modules.Auth.csproj": {
+              "projectPath": "C:\\ChatGptProjects\\BudgetTrackerModulith\\BudgetTrackerModulith\\src\\BudgetTracker.Modules.Auth\\BudgetTracker.Modules.Auth.csproj"
             }
           }
         }
